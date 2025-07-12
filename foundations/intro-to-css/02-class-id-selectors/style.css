@@ -1,0 +1,21 @@
+.one, 
+.two, 
+.three{
+    background-color: #ffb6c1;
+    font-family: verdana, Dejavu sans, sans-serif;
+}
+
+#num2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
